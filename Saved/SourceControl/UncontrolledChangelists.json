@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/snigdhagupta/Documents/CS415-Final-Project/Content/FirstPerson/UI/HealthWidget.uasset",
+				"/Users/snigdhagupta/Documents/CS415-Final-Project/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"/Users/snigdhagupta/Documents/CS415-Final-Project/Content/Assets/RestartGame/WBP_Restart.uasset",
+				"/Users/snigdhagupta/Documents/CS415-Final-Project/Content/FirstPerson/UI/Health_bar_filled.uasset",
+				"/Users/snigdhagupta/Documents/CS415-Final-Project/Content/FirstPerson/UI/Health_bar_unfilled.uasset",
 				"/Users/tanishqkhurana/Desktop/UIUC/FALL 2023/CS 415/CS415-Final-Project/Content/StarterContent/Particles/P_Fire.uasset",
 				"/Users/tanishqkhurana/Desktop/UIUC/FALL 2023/CS 415/CS415-Final-Project/Content/Assets/Adventurers/Assets/shield_round.uasset",
 				"/Users/tanishqkhurana/Desktop/UIUC/FALL 2023/CS 415/CS415-Final-Project/Content/Assets/Adventurers/Assets/sword_2handed.uasset",
